@@ -1,0 +1,6 @@
+*.cache
+*.pdb
+logs.txt
+/bin
+/obj
+*.csproj*
